@@ -23,7 +23,7 @@ A aplicação oferece as seguintes funcionalidades:
 
 ## Instalação
 Para executar a aplicação localmente, siga estas etapas:
-1. Clone este repositório: git clone https://github.com/bigardii/literalura.git
+1. Clone este repositório: git clone https://github.com/bigardii/Challengeliteralura.git
 2. Certifique-se de ter o Java JDK 8 ou superior instalado.
 3. Importe o projeto em sua IDE preferida (como IntelliJ IDEA ou Eclipse).
 4. Configure o PostgreSQL e atualize as configurações no arquivo application.properties.
